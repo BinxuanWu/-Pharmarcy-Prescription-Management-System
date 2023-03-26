@@ -1,1 +1,1 @@
-# -Pharmarcy-Prescription-Management-System
+# Pharmarcy-Prescription-Management-System
